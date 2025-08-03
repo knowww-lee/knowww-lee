@@ -1,10 +1,5 @@
 <!-- Profile Banner (Optional) -->
-![Welcome Banner](https://i.imgur.com/w7JX2DM.png)
-
-# 👋 Hey there, I'm **Noli Licudo**  
-### 🚀 *Web Developer | 🎨 Graphic Artist | 💻 Tech-Savvy | 🤝 Human*
-
-> *"Code with creativity. Design with purpose. Build with passion."*
+![Welcome Banner](assets/GitHub Banner.png)
 
 ---
 
