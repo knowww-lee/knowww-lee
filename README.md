@@ -1,5 +1,5 @@
 <!-- Profile Banner (Optional) -->
-![Welcome Banner](assets/GitHub Banner.png)
+![Welcome Banner](assets/banner.png)
 
 ---
 
